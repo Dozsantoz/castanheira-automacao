@@ -15,7 +15,7 @@ require_once ('header.php');
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>A melhor solução para o seu negócio</h1>
-          <h2>We are team of talented designers making websites with Bootstrap</h2>
+          <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel porro voluptatibus obcaecati eum rerum libero consequatur nesciunt culpa nihil, aliquid odit veniam, aperiam, magni magnam. Esse dolorem totam aspernatur perspiciatis.</h2>
           <div class="d-lg-flex">
             
             
